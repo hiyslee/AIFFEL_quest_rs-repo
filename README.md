@@ -11,18 +11,28 @@ AIFFEL_quest_cr
 .		.
 .		.
 .		.
-│   └── Quest08
+│   └── Quest05
 │       ├── .ipynb
 │       └── README.md
+.		
+.		
+├── Exploration
+│    ├── Ex01
+│    .
+│    .
+│    .
+│    └── Ex07
+│        ├── .ipynb
+│        └── README.md
 .
 .
 .
-└── Exploration
-    ├── Ex01
+└── GoingDeeper
+    ├── GD01
     .
     .
     .
-    └── Ex07
+    └── GD07
         ├── .ipynb
         └── README.md
 ```
