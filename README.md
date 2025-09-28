@@ -32,7 +32,7 @@ AIFFEL_quest_rs
     .
     .
     .
-    └── GD07
+    └── GD09
         ├── .ipynb
         └── README.md
 ```
